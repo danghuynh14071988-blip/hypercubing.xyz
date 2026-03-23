@@ -18,6 +18,8 @@ In this step, solve 4 ridges that all share the same 2 axes. For example, this c
 
 In this step, orient the remaining ridges. This can be done by doing quarter turns on one of the component cells of the Ridge Band in a way that doesn't break existing progress. This can be done in a similar way as 3x3x3 Edge Orientation. After doing this, gyro the ridge band to the tertiary axes (aka Sticky-Outy Bits)
 
+For edge orientation, visit [this](https://discord.com/channels/852389089268858922/903095477568938035/1478516668643672199) or look at the diamond on the cell and the center color. If they're the same color or opposite color, then it would be placed onto a belt cell with 3 other bad ridges, then turn the belt cell 90 degrees in a way that does not break the belt.
+
 # Step 3: Belt
 
 In this step, solve the rest of the middle layer by making two 1x3x3 blocks around opposite centers.
